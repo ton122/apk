@@ -1,0 +1,6 @@
+2021-04-24 01:06:39 10312/10312 D/PretiumManager: [doLoadLocalStatusSync] from = onStoragePermissionGranted_loadLocalStatusSync, file = /storage/emulated/0/f1player/pretium, file not exist, use none
+
+2021-04-24 01:06:40 10312/24771 D/PretiumManager: [doLoadLocalStatusSync] from = checkMultiBoxConfig_loadLocalStatusSync, file = /storage/emulated/0/f1player/pretium, file not exist, use none
+
+2021-04-24 01:06:52 24808/24808 D/PretiumManager: [doLoadLocalStatusSync] from = X8Application_onCreate_loadLocalStatusSync, file = /storage/emulated/0/f1player/pretium, file not exist, use none
+
